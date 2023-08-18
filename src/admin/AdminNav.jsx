@@ -22,7 +22,11 @@ const admin__nav = [
     {
         display: "Users",
         path: "/dashboard/users",
-    }
+    },
+    {
+        path: "home",
+        display: "home",
+    },
 ]
 
 const AdminNav = () => {
