@@ -40,7 +40,7 @@ const ProductDetails = () => {
         }
 
         getProduct()
-    },[])
+    }, [docRef])
 
     const { 
         imgUrl,
