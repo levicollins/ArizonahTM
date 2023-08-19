@@ -25,7 +25,7 @@ const admin__nav = [
     },
     {
         path: "home",
-        display: "home",
+        display: "homepage",
     },
 ]
 

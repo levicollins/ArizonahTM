@@ -31,8 +31,8 @@ const nav__links = [
     },
     {
         path: "dashboard",
-        display: "Dashboard",
-    },
+        display: "Become A Seller",
+    }
 ];
 
 const Header = () => {
@@ -79,7 +79,7 @@ const Header = () => {
         navigate("/cart");
     }
 
-    const toggleProfileActions = () => profileActionRef.current.classList.toggle("show__profileActions")
+    const toggleProfileActions = () => profileActionRef.current.classList.toggle("profile__actions")
     
 
     return (
