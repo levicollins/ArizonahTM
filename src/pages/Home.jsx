@@ -76,6 +76,7 @@ const Home = () => {
                                     <i>We have all sorts of funiture and we produce all sorts of funiture and amaising designs and we deliver to all
                                         locations in NIGERIA.</i></kbd>
                                 </p>
+                                
 
                                 <motion.button whileTap={{ scale: 1.2 }}
                                     className="buy__btn">
