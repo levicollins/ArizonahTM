@@ -71,7 +71,7 @@ const Home = () => {
                                 </p>
                                 <h2>Why choose Arizonah&trade;?</h2><b><kbd><i>life with style</i></kbd></b>
                                 <p><kbd>
-                                    We give the best. We belive life is has quality and we live by quality.
+                                    We give the best. We belive life has quality and we live by quality.
                                     Everyone has standards of living, The question is what's your standard of living?
                                     <i>We have all sorts of funiture and we produce all sorts of funiture and amaising designs and we deliver to all
                                         locations in NIGERIA.</i></kbd>
